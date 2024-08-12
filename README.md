@@ -1,0 +1,2 @@
+# E-commerce Product and Order Insights Dashboard(Amazon)
+ The E-commerce Product and Order Insights Dashboard is a comprehensive data visualization tool developed using Power BI to provide in-depth analysis and insights into Amazon sales, product performance, and order management. This project is designed to assist Amazon sellers and stakeholders in making data-driven decisions to optimize sales strategies, manage inventory, and enhance fulfillment processes.
